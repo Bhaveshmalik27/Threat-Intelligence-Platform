@@ -1,0 +1,15 @@
+Architecture Flow:
+
+1. Data Collection:
+   - Fetch data from APIs or threat feeds
+
+2. Data Analysis:
+   - Parse indicators: IPs, hashes, domains
+   - Score and classify threats
+
+3. Output:
+   - Alerts for critical threats
+   - Export results or visualize dashboards
+
+4. Optional:
+   - Integration with SIEM or Firewall

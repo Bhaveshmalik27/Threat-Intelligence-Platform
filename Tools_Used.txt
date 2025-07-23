@@ -1,0 +1,7 @@
+Tools & Technologies Used:
+
+1. Python – for scripting and data analysis
+2. Threat Feeds – AlienVault OTX, AbuseIPDB
+3. APIs – Used to fetch threat indicators
+4. Kibana / Grafana – Visualization (optional)
+5. MITRE ATT&CK – Framework for classifying threats
